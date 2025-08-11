@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Delowar",
+        "age": 27,
+        "email": "delowarhossainggi1028@gmail.com",
+        "course": "B.Tech in CSE"
+    },
+    {
+        "id": 2,
+        "name": "Mehedi Hasan",
+        "age": 30,
+        "email": "mehedihasan@gmail.com",
+        "course": "B.Sc in CSE"
+    },
+    {
+        "id": 3,
+        "name": "Asif khan",
+        "age": 25,
+        "email": "asifkhan123@gmail.com",
+        "course": "B.Tech in CSE"
+    }
+]
